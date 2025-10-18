@@ -13,16 +13,26 @@ involved and analyze the resulting executables to see the linker's work firsthan
 
 • Modular Programming: Structuring C code into reusable modules with separate header
 (.h) and source (.c) files.
+
+
 • Static & Dynamic Libraries: Compiling object files and creating both static (.a) and
 dynamic (.so) libraries.
+
 • The Linking Process: Understanding the roles of the -I (include), -L (library path), and -l
 (link library) flags to connect your program with your libraries.
+
+
 • Build Automation: Writing a flexible and efficient Makefile(s) to manage the entire
 compilation, linking, and installation workflow for multiple targets.
+
 • Documentation: Creating standard Linux man pages to document your library's functions
 and programs.
+
+
 • Binary Analysis: Using tools like nm, ar, readelf, and ldd to inspect libraries and
 executables.
+
+
 • Version Control Workflow: Applying git for project setup, using branches for features,
 merging completed work, and maintaining a clean project history.
 • Software Releasing: Using git tags to mark stable versions of your project and creating
