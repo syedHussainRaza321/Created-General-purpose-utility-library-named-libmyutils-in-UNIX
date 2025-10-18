@@ -3,9 +3,12 @@ of two modules:
 
 • String Functions: It will provide custom implementations of common string manipulation
 functions.
+
+
 • File Functions: It will provide utility functions for file-based operations, like counting words
 or searching for a pattern.
 
+ 
  Wrote a driver program that utilizes functions from both modules. By building and
 linking this library first statically and then dynamically,Directly observed the trade-offs
 involved and analyze the resulting executables to see the linker's work firsthand.
