@@ -1,2 +1,2 @@
-# BSDSF23M011-OS-A02
-OS second assignment
+# BSDSF23M022-OS-A02
+Public Repository for OS Assignment 02
